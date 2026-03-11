@@ -1,52 +1,20 @@
-# The-Vibe
-A sophisticated and minimalist music and poetry recommendation blog with a high-end editorial feel.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-Core Content & Management
+# Run and deploy your AI Studio app
 
-The Archives: Supports specialized multimedia formats for music reviews and poetic narratives.
-<img width="1122" height="622" alt="image" src="https://github.com/user-attachments/assets/aa615f36-a44d-49fb-8211-4c42ff632d0d" />
+This contains everything you need to run your app locally.
 
-Draft & Vinyl System: Allows admins to save progress and highlight physical media with unique "Vinyl" visual cues.
-<img width="1629" height="557" alt="image" src="https://github.com/user-attachments/assets/3451a4ec-92ee-455d-b7ce-77ce30be457c" />
+View your app in AI Studio: https://ai.studio/apps/6eb0e568-8c6d-4fbf-a1ad-f8947b6e97ef
 
-Rich Media Integration: Uses high-quality cover images and Markdown for expressive, styled storytelling.
-<img width="1895" height="1010" alt="image" src="https://github.com/user-attachments/assets/77b84f96-76fe-45a4-b43f-1033899948be" />
+## Run Locally
 
-Admin Workspace: A comprehensive CMS featuring live Markdown previews, local autosave, and drag-and-drop image handling.
-
-User Experience & Interaction
-
-The Sanctuary (Library): A personal collection space where users save liked "musings" for future reading.
-<img width="1904" height="1006" alt="image" src="https://github.com/user-attachments/assets/37d847e7-0e97-4c04-969e-9161fe993653" />
-
-Reflections: A community discussion framework integrated into every post for reader comments.
-<img width="1888" height="1007" alt="image" src="https://github.com/user-attachments/assets/70e5e2bf-b20f-44c1-8a54-05a338a527e7" />
-
-Personalized Identity: Custom user profiles featuring unique bios and avatars.
-<img width="1899" height="998" alt="image" src="https://github.com/user-attachments/assets/8c3c5afb-6a07-43fb-8a5a-e1e24851a7dd" />
-
-Engagement Loops: Intelligent prompts that encourage guests to join the community during interaction.
-
-Navigation & Specialized Views
-Home & Explore: Curated feeds of "Chief Editor" reflections paired with a dedicated search and discovery interface.
-<img width="1901" height="1023" alt="image" src="https://github.com/user-attachments/assets/eca4fb8d-67a7-40ca-860a-93111e6ae314" />
-
-The Manifesto: A landing page designed to establish the blog’s specific aesthetic and philosophical tone.
-<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/23fff823-e341-4e9e-a5b0-cafcc36d906b" />
-
-Admin Console: A private interface for full-scale archive management (Create, Update, Delete).
-<img width="1885" height="1004" alt="image" src="https://github.com/user-attachments/assets/895a5ed2-7326-48d0-9580-817e776a0d09" />
+**Prerequisites:**  Node.js
 
 
-Technical Architecture
-Modern Frontend: Built with React and Vite, utilizing Framer Motion for cinematic UI transitions
-Hybrid Data Layer: Combines Firebase (Auth/Storage) with SQLite for high-performance content delivery.
-Aesthetic Design: A custom "Cream & Deep-Red" theme utilizing glassmorphism and modern typography.
-AI Integration: Leverages Gemini-3-Flash for automated poetry critique and sophisticated editorial assistance.
-
-Cinematic UX & Resilience
-Micro-interactions: Context-aware animations, such as pulse effects that differ between music and poetry posts.
-
-Orchestrated Transitions: Uses AnimatePresence to ensure seamless movement between different site sections.
-
-Connection Resilience: Built-in monitoring to sync administrative actions once the user returns online.
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
