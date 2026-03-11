@@ -7,6 +7,8 @@ The Archives: Supports specialized multimedia formats for music reviews and poet
 <img width="1122" height="622" alt="image" src="https://github.com/user-attachments/assets/aa615f36-a44d-49fb-8211-4c42ff632d0d" />
 
 Draft & Vinyl System: Allows admins to save progress and highlight physical media with unique "Vinyl" visual cues.
+<img width="1629" height="557" alt="image" src="https://github.com/user-attachments/assets/3451a4ec-92ee-455d-b7ce-77ce30be457c" />
+
 Rich Media Integration: Uses high-quality cover images and Markdown for expressive, styled storytelling.
 Admin Workspace: A comprehensive CMS featuring live Markdown previews, local autosave, and drag-and-drop image handling.
 
