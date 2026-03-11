@@ -32,7 +32,11 @@ Home & Explore: Curated feeds of "Chief Editor" reflections paired with a dedica
 <img width="1901" height="1023" alt="image" src="https://github.com/user-attachments/assets/eca4fb8d-67a7-40ca-860a-93111e6ae314" />
 
 The Manifesto: A landing page designed to establish the blog’s specific aesthetic and philosophical tone.
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/23fff823-e341-4e9e-a5b0-cafcc36d906b" />
+
 Admin Console: A private interface for full-scale archive management (Create, Update, Delete).
+<img width="1885" height="1004" alt="image" src="https://github.com/user-attachments/assets/895a5ed2-7326-48d0-9580-817e776a0d09" />
+
 
 Technical Architecture
 Modern Frontend: Built with React and Vite, utilizing Framer Motion for cinematic UI transitions
