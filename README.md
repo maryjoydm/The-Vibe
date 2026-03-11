@@ -10,17 +10,27 @@ Draft & Vinyl System: Allows admins to save progress and highlight physical medi
 <img width="1629" height="557" alt="image" src="https://github.com/user-attachments/assets/3451a4ec-92ee-455d-b7ce-77ce30be457c" />
 
 Rich Media Integration: Uses high-quality cover images and Markdown for expressive, styled storytelling.
+<img width="1895" height="1010" alt="image" src="https://github.com/user-attachments/assets/77b84f96-76fe-45a4-b43f-1033899948be" />
+
 Admin Workspace: A comprehensive CMS featuring live Markdown previews, local autosave, and drag-and-drop image handling.
 
 User Experience & Interaction
 
 The Sanctuary (Library): A personal collection space where users save liked "musings" for future reading.
+<img width="1904" height="1006" alt="image" src="https://github.com/user-attachments/assets/37d847e7-0e97-4c04-969e-9161fe993653" />
+
 Reflections: A community discussion framework integrated into every post for reader comments.
+<img width="1888" height="1007" alt="image" src="https://github.com/user-attachments/assets/70e5e2bf-b20f-44c1-8a54-05a338a527e7" />
+
 Personalized Identity: Custom user profiles featuring unique bios and avatars.
+<img width="1899" height="998" alt="image" src="https://github.com/user-attachments/assets/8c3c5afb-6a07-43fb-8a5a-e1e24851a7dd" />
+
 Engagement Loops: Intelligent prompts that encourage guests to join the community during interaction.
 
 Navigation & Specialized Views
 Home & Explore: Curated feeds of "Chief Editor" reflections paired with a dedicated search and discovery interface.
+<img width="1901" height="1023" alt="image" src="https://github.com/user-attachments/assets/eca4fb8d-67a7-40ca-860a-93111e6ae314" />
+
 The Manifesto: A landing page designed to establish the blog’s specific aesthetic and philosophical tone.
 Admin Console: A private interface for full-scale archive management (Create, Update, Delete).
 
